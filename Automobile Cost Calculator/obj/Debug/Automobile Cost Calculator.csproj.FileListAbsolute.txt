@@ -1,0 +1,10 @@
+C:\Users\noahd\source\repos\Automobile Cost Calculator\Automobile Cost Calculator\bin\Debug\Automobile Cost Calculator.exe.config
+C:\Users\noahd\source\repos\Automobile Cost Calculator\Automobile Cost Calculator\bin\Debug\Automobile Cost Calculator.exe
+C:\Users\noahd\source\repos\Automobile Cost Calculator\Automobile Cost Calculator\bin\Debug\Automobile Cost Calculator.pdb
+C:\Users\noahd\source\repos\Automobile Cost Calculator\Automobile Cost Calculator\obj\Debug\Automobile Cost Calculator.csprojAssemblyReference.cache
+C:\Users\noahd\source\repos\Automobile Cost Calculator\Automobile Cost Calculator\obj\Debug\Automobile_Cost_Calculator.Properties.Resources.resources
+C:\Users\noahd\source\repos\Automobile Cost Calculator\Automobile Cost Calculator\obj\Debug\Automobile Cost Calculator.csproj.GenerateResource.cache
+C:\Users\noahd\source\repos\Automobile Cost Calculator\Automobile Cost Calculator\obj\Debug\Automobile Cost Calculator.csproj.CoreCompileInputs.cache
+C:\Users\noahd\source\repos\Automobile Cost Calculator\Automobile Cost Calculator\obj\Debug\Automobile Cost Calculator.exe
+C:\Users\noahd\source\repos\Automobile Cost Calculator\Automobile Cost Calculator\obj\Debug\Automobile Cost Calculator.pdb
+C:\Users\noahd\source\repos\Automobile Cost Calculator\Automobile Cost Calculator\obj\Debug\Automobile_Cost_Calculator.frmAutomobileCost.resources
