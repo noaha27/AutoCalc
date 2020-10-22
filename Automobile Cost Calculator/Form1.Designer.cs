@@ -120,7 +120,6 @@
             this.InTxtCarInsurance.Name = "InTxtCarInsurance";
             this.InTxtCarInsurance.Size = new System.Drawing.Size(285, 31);
             this.InTxtCarInsurance.TabIndex = 8;
-           
             // 
             // InTxtCarGas
             // 
@@ -135,7 +134,6 @@
             this.InTxtCarOil.Name = "InTxtCarOil";
             this.InTxtCarOil.Size = new System.Drawing.Size(285, 31);
             this.InTxtCarOil.TabIndex = 10;
-            
             // 
             // InTxtCarRepairs
             // 
@@ -159,7 +157,6 @@
             this.outTxtResults.Size = new System.Drawing.Size(541, 140);
             this.outTxtResults.TabIndex = 13;
             this.outTxtResults.Text = " ***Final Results***\r\nTotal Monthly Cost: $\r\nTotal Annual Cost: $\r\n\r\n";
-        
             // 
             // btnCalculate
             // 
@@ -169,6 +166,7 @@
             this.btnCalculate.TabIndex = 14;
             this.btnCalculate.Text = "Calculate";
             this.btnCalculate.UseVisualStyleBackColor = true;
+            this.btnCalculate.Click += new System.EventHandler(this.submitExpenses);
             // 
             // frmAutomobileCost
             // 
